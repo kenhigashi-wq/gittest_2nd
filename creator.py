@@ -1,2 +1,0 @@
-def cahrcreat():
-    print("ff")
